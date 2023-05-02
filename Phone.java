@@ -1,4 +1,4 @@
-Problem:
+/*Problem:
 Design a Phone Directory which supports the following operations:
 get(): Provide a number that is not assigned to anyone.
 check(number): Check if a number is available or not.
@@ -26,7 +26,7 @@ true
 2
 false
 true
-
+*/
 
 //-----------------------------------------------------------------------------------------------------------------------
 
