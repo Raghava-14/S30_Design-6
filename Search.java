@@ -24,3 +24,4 @@ In this case, the expected output would be:
 */
 
 //-----------Write the code----------------------
+//Premium Problem
